@@ -6,33 +6,35 @@
         <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
         <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
         <script src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
+        <script src="checkTime.js" type="text/javascript"></script>
         <title>JMU Dining</title>
     </head>
-    <body>
+    <body onload="checkTime()">
         <br>
-        <script>
-            var location =
-            {
-                name: ''
-            }
-        
-            function setName(name)
-            {
-                location.name = name;
-            }
-        </script>
         <br>
         <ul data-role="listview" data-filter="true" data-filter-placeholder="Search restaurants" data-inset="true" data-divider-theme="a">
             <li data-role="list-divider">East Campus</li>
-            <li><a href="eastcampus.html" onclick=setName("ecdh") data-transition="slide">East Campus Dining Hall</a></li>
-            <li><a href="eastcampus.html" onclick=setName("festi") data-transition="slide">Festival</a></li>
-            <li><a href="eastcampus.html" onclick=setName("fjava") data-transition="slide">Java City @ Festival</a></li>
-            <li><a href="eastcampus.html" onclick=setName("jemmys") data-transition="slide">Jemmy's Market</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/EastCampusDiningHall.htm"><img src='ecdh' class="ui-li-icon" data-transition="slide">East Campus Dining Hall</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/Festival.htm"><img src='festi' class="ui-li-icon" data-transition="slide">Festival</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/FestivalJavaCity.htm"><img src='jcfesti' class="ui-li-icon" data-transition="slide">Java City @ Festival</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/JemmysCornerMarket.htm"><img src='jemmy' class="ui-li-icon" data-transition="slide">Jemmy's Market</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/RoseLibraryStarbucks.htm"><img src='ecl' class="ui-li-icon" data-transition="slide">Starbucks @ ECL</a></li>
             <li data-role="list-divider">Main Campus</li>
-            <li><a href="maincampus.html" onclick=setName("dhall") data-transition="slide">D Hall</a></li>
-            <li><a href="maincampus.html" onclick=setName("topdog") data-transition="slide">Top Dog</a></li>
-            <li><a href="maincampus.html" onclick=setName("dukes") data-transition="slide">PC Dukes</a></li>
-            <li><a href="maincampus.html" onclick=setName("market") data-transition="slide">Market One</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/D-Hall.htm"><img src='dhall' class="ui-li-icon" data-transition="slide">D Hall</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/TopDogCafeRedMango.htm"><img src='topdog' class="ui-li-icon" data-transition="slide">Top Dog</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/PCDukes.htm"><img src='dukes' class="ui-li-icon" data-transition="slide">PC Dukes</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/MarketOne.htm"><img src='market' class="ui-li-icon" data-transition="slide">Market One</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/MrsGreens.htm"><img src='greens' class="ui-li-icon" data-transition="slide">Mrs. Green's'</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/CarrierLibraryStarbucks.htm"><img src='carrier' class="ui-li-icon" data-transition="slide">Starbucks @ Carrier</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/Chick-fil-A.htm"><img src='cfa' class="ui-li-icon" data-transition="slide">Chick-Fil-A</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/CornerBistro.htm"><img src='corner' class="ui-li-icon" data-transition="slide">Corner Bistro</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/DogPound.htm"><img src='dogpound' class="ui-li-icon" data-transition="slide">Dog Pound</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/EinsteinBrosBagels.htm"><img src='bagels' class="ui-li-icon" data-transition="slide">Einstein Bros Bagels</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/JavaCityAtTDU.htm"><img src='jctdu' class="ui-li-icon" data-transition="slide">Java City @ TDU</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/LakesideExpress.htm"><img src='lakeside' class="ui-li-icon" data-transition="slide">Lakeside Express</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/LetsGoLocal.htm"><img src='letsgo' class="ui-li-icon" data-transition="slide">Let's Go</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/MadisonGrill.htm"><img src='grill' class="ui-li-icon" data-transition="slide">Madison Grill</a></li>
+            <li><a href="http://www.campusdish.com/en-US/CSMA/JMU/Locations/MrChipsQuiznos.htm"><img src='chips' class="ui-li-icon" data-transition="slide">Mr. Chips</a></li>
         </ul>
     </body>
 </html>

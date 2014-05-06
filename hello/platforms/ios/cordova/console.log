@@ -373,3 +373,120 @@ Terminating in response to SpringBoard's termination.
 2014-02-10 11:00:44.404 JMU Dining App[10508:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
 2014-02-10 11:01:18.286 JMU Dining App[10508:a0b] CDVWebViewDelegate: Navigation started when state=1
 2014-02-10 11:01:18.305 JMU Dining App[10508:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-22 11:58:37.962 JMU Dining App[59203:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-22 11:58:38.056 JMU Dining App[59203:a0b] Unlimited access to network resources
+2014-02-22 11:58:38.590 JMU Dining App[59203:a0b] Resetting plugins due to page load.
+2014-02-22 11:58:39.306 JMU Dining App[59203:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-22 11:58:39.308 JMU Dining App[59203:a0b] Resetting plugins due to page load.
+2014-02-22 11:58:39.328 JMU Dining App[59203:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-02-22 12:02:36.100 JMU Dining App[59809:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-22 12:02:36.197 JMU Dining App[59809:a0b] Unlimited access to network resources
+2014-02-22 12:02:38.636 JMU Dining App[59809:a0b] Resetting plugins due to page load.
+2014-02-22 12:02:40.088 JMU Dining App[59809:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-22 12:02:40.089 JMU Dining App[59809:a0b] Resetting plugins due to page load.
+2014-02-22 12:02:40.122 JMU Dining App[59809:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-02-24 10:25:09.966 JMU Dining App[1300:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:25:10.159 JMU Dining App[1300:a0b] Unlimited access to network resources
+2014-02-24 10:25:13.809 JMU Dining App[1300:a0b] Resetting plugins due to page load.
+2014-02-24 10:25:14.741 JMU Dining App[1300:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:25:14.741 JMU Dining App[1300:a0b] Resetting plugins due to page load.
+2014-02-24 10:25:14.776 JMU Dining App[1300:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2014-02-24 10:26:19.175 JMU Dining App[1746:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:26:19.185 JMU Dining App[1746:a0b] Unlimited access to network resources
+2014-02-24 10:26:19.653 JMU Dining App[1746:a0b] Resetting plugins due to page load.
+2014-02-24 10:26:20.952 JMU Dining App[1746:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:26:20.953 JMU Dining App[1746:a0b] Resetting plugins due to page load.
+2014-02-24 10:26:20.957 JMU Dining App[1746:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-02-24 10:27:44.298 JMU Dining App[2195:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:27:44.307 JMU Dining App[2195:a0b] Unlimited access to network resources
+2014-02-24 10:27:44.889 JMU Dining App[2195:a0b] Resetting plugins due to page load.
+2014-02-24 10:27:45.837 JMU Dining App[2195:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-24 10:28:00.270 JMU Dining App[2195:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-24 10:28:00.270 JMU Dining App[2195:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-24 10:28:06.421 JMU Dining App[2195:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-24 10:28:06.421 JMU Dining App[2195:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-24 10:32:02.969 JMU Dining App[2689:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:32:02.995 JMU Dining App[2689:a0b] Unlimited access to network resources
+2014-02-24 10:32:03.549 JMU Dining App[2689:a0b] Resetting plugins due to page load.
+2014-02-24 10:32:04.245 JMU Dining App[2689:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:32:04.247 JMU Dining App[2689:a0b] Resetting plugins due to page load.
+2014-02-24 10:32:04.253 JMU Dining App[2689:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2014-02-24 10:32:51.637 JMU Dining App[3135:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:32:51.646 JMU Dining App[3135:a0b] Unlimited access to network resources
+2014-02-24 10:32:51.804 JMU Dining App[3135:a0b] Resetting plugins due to page load.
+2014-02-24 10:32:52.472 JMU Dining App[3135:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:32:52.473 JMU Dining App[3135:a0b] Resetting plugins due to page load.
+2014-02-24 10:32:52.486 JMU Dining App[3135:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2014-02-24 10:33:52.964 JMU Dining App[3582:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:33:53.002 JMU Dining App[3582:a0b] Unlimited access to network resources
+2014-02-24 10:33:53.412 JMU Dining App[3582:a0b] Resetting plugins due to page load.
+2014-02-24 10:33:54.873 JMU Dining App[3582:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:33:54.874 JMU Dining App[3582:a0b] Resetting plugins due to page load.
+2014-02-24 10:33:54.882 JMU Dining App[3582:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-02-24 10:34:50.856 JMU Dining App[4028:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:34:50.869 JMU Dining App[4028:a0b] Unlimited access to network resources
+2014-02-24 10:34:51.257 JMU Dining App[4028:a0b] Resetting plugins due to page load.
+2014-02-24 10:34:51.887 JMU Dining App[4028:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:34:51.887 JMU Dining App[4028:a0b] Resetting plugins due to page load.
+2014-02-24 10:34:51.898 JMU Dining App[4028:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-02-24 10:35:56.174 JMU Dining App[4480:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:35:56.192 JMU Dining App[4480:a0b] Unlimited access to network resources
+2014-02-24 10:35:56.615 JMU Dining App[4480:a0b] Resetting plugins due to page load.
+2014-02-24 10:35:57.264 JMU Dining App[4480:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:35:57.264 JMU Dining App[4480:a0b] Resetting plugins due to page load.
+2014-02-24 10:35:57.268 JMU Dining App[4480:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-02-24 10:36:54.519 JMU Dining App[4927:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:36:54.541 JMU Dining App[4927:a0b] Unlimited access to network resources
+2014-02-24 10:36:55.097 JMU Dining App[4927:a0b] Resetting plugins due to page load.
+2014-02-24 10:36:55.682 JMU Dining App[4927:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:36:55.683 JMU Dining App[4927:a0b] Resetting plugins due to page load.
+2014-02-24 10:36:55.687 JMU Dining App[4927:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2014-02-24 10:38:20.101 JMU Dining App[5565:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-24 10:38:20.126 JMU Dining App[5565:a0b] Unlimited access to network resources
+2014-02-24 10:38:20.584 JMU Dining App[5565:a0b] Resetting plugins due to page load.
+2014-02-24 10:38:21.324 JMU Dining App[5565:a0b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-02-24 10:38:21.325 JMU Dining App[5565:a0b] Resetting plugins due to page load.
+2014-02-24 10:38:21.333 JMU Dining App[5565:a0b] Failed to load webpage with error: The requested URL was not found on this server.
+Terminating in response to SpringBoard's termination.
+2014-02-28 15:06:22.105 JMU Dining App[2224:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:06:22.237 JMU Dining App[2224:a0b] Unlimited access to network resources
+2014-02-28 15:06:26.058 JMU Dining App[2224:a0b] Resetting plugins due to page load.
+2014-02-28 15:06:27.013 JMU Dining App[2224:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:07:50.208 JMU Dining App[2668:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:07:50.254 JMU Dining App[2668:a0b] Unlimited access to network resources
+2014-02-28 15:07:50.703 JMU Dining App[2668:a0b] Resetting plugins due to page load.
+2014-02-28 15:07:51.172 JMU Dining App[2668:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:08:57.858 JMU Dining App[3113:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:08:57.871 JMU Dining App[3113:a0b] Unlimited access to network resources
+2014-02-28 15:08:58.351 JMU Dining App[3113:a0b] Resetting plugins due to page load.
+2014-02-28 15:08:58.896 JMU Dining App[3113:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:09:55.599 JMU Dining App[3557:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:09:55.618 JMU Dining App[3557:a0b] Unlimited access to network resources
+2014-02-28 15:09:56.003 JMU Dining App[3557:a0b] Resetting plugins due to page load.
+2014-02-28 15:09:56.676 JMU Dining App[3557:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:12:41.949 JMU Dining App[4026:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:12:41.965 JMU Dining App[4026:a0b] Unlimited access to network resources
+2014-02-28 15:12:42.447 JMU Dining App[4026:a0b] Resetting plugins due to page load.
+2014-02-28 15:12:42.893 JMU Dining App[4026:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:15:59.285 JMU Dining App[4487:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:15:59.298 JMU Dining App[4487:a0b] Unlimited access to network resources
+2014-02-28 15:15:59.727 JMU Dining App[4487:a0b] Resetting plugins due to page load.
+2014-02-28 15:16:00.279 JMU Dining App[4487:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:16:49.523 JMU Dining App[4933:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:16:49.544 JMU Dining App[4933:a0b] Unlimited access to network resources
+2014-02-28 15:16:50.013 JMU Dining App[4933:a0b] Resetting plugins due to page load.
+2014-02-28 15:16:50.580 JMU Dining App[4933:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+Terminating in response to SpringBoard's termination.
+2014-02-28 15:18:54.917 JMU Dining App[5385:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:18:54.936 JMU Dining App[5385:a0b] Unlimited access to network resources
+2014-02-28 15:18:55.310 JMU Dining App[5385:a0b] Resetting plugins due to page load.
+2014-02-28 15:18:55.702 JMU Dining App[5385:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-28 15:21:40.958 JMU Dining App[5846:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-28 15:21:40.977 JMU Dining App[5846:a0b] Unlimited access to network resources
+2014-02-28 15:21:41.315 JMU Dining App[5846:a0b] Resetting plugins due to page load.
+2014-02-28 15:21:42.003 JMU Dining App[5846:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+Terminating in response to SpringBoard's termination.
